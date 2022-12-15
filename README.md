@@ -1,7 +1,7 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ## Description
 
-This is a collaborative project between Toluwani Ajibare and Al-Mukhtar Jamilat Ladidi who are both students in the ALX Africa software engineering.
+This is a collaborative project between Toluwani Ajibare and Al-Mukhtar Jamilat Ladidi who are both students in the ALX Africa software engineering program.
 
 This is an introduction to Stacks and Queues in C - programming language.
 
